@@ -8,3 +8,7 @@ A huge increase of the amount of non-textual information available in electronic
 Image classification, as one of the enabling techniques for effective manipulation over large-scale images and videos, is challenging [5]. The intent of the classification process is to decide whether an image belongs to a certain category. Traditional algorithms for sports image classification require carefully hand-crafted features, such as color, texture, object shape, and contour [6]. Notwithstanding the fact that this kind of use is very impractical due to the emergence of massive-scale data, such algorithms have the most difficulty in distinguishing sports disciplines that are very similar in appearance
 
 The use of image classification methods and techniques in sports is not new. Previous works on image and video classification for sports related content can be generally divided into traditional ML algorithms and the more recently developed DL techniques. In current work, Sequencial Convolutional Nueral Network has been applied on the data for classification with 40 equal epochs. Relu was used as an activation function & Adam as an optimizer and further on acheiving measurable result, Accuracy v/s Loss curve has been plotted.
+
+![image](https://user-images.githubusercontent.com/62097113/151119380-de6504a9-a630-41ca-8a86-38f669ac4d52.png)
+
+Data is in image type of .jpg format. Five classes were there containg image of five different sports celebrity. 'Kane Williamson', 'Kobe Bryant', 'MS Dhoni', 'Maria Sharapova', 'Ronaldo'. 
