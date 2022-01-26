@@ -9,6 +9,6 @@ Image classification, as one of the enabling techniques for effective manipulati
 
 The use of image classification methods and techniques in sports is not new. Previous works on image and video classification for sports related content can be generally divided into traditional ML algorithms and the more recently developed DL techniques. In current work, Sequencial Convolutional Nueral Network has been applied on the data for classification with 40 equal epochs. Relu was used as an activation function & Adam as an optimizer and further on acheiving measurable result, Accuracy v/s Loss curve has been plotted.
 
-![image](https://user-images.githubusercontent.com/62097113/151119380-de6504a9-a630-41ca-8a86-38f669ac4d52.png)
+![image](https://user-images.githubusercontent.com/62097113/151119872-83a5b5ca-affe-4f8f-8cf2-78820050f2f3.png)
 
 Data is in image type of .jpg format. Five classes were there containg image of five different sports celebrity. 'Kane Williamson', 'Kobe Bryant', 'MS Dhoni', 'Maria Sharapova', 'Ronaldo'. In conclusion, the main contribution and purpose of the proposed method is to provide a robust and automatic approach, which then significantly improves the classification performance.
