@@ -11,4 +11,4 @@ The use of image classification methods and techniques in sports is not new. Pre
 
 ![image](https://user-images.githubusercontent.com/62097113/151119380-de6504a9-a630-41ca-8a86-38f669ac4d52.png)
 
-Data is in image type of .jpg format. Five classes were there containg image of five different sports celebrity. 'Kane Williamson', 'Kobe Bryant', 'MS Dhoni', 'Maria Sharapova', 'Ronaldo'. 
+Data is in image type of .jpg format. Five classes were there containg image of five different sports celebrity. 'Kane Williamson', 'Kobe Bryant', 'MS Dhoni', 'Maria Sharapova', 'Ronaldo'. In conclusion, the main contribution and purpose of the proposed method is to provide a robust and automatic approach, which then significantly improves the classification performance.
