@@ -18,3 +18,8 @@ Data is in image type of .jpg format. Five classes were there containg image of 
 [1] Hatem, Y.; Rady, S. Exploring feature dimensionality reduction methods for enhancing automatic sport image annotation. Multimed. Tools Appl. 2018, 77, 9171–9188.
 
 [2] Pilar, P.M.; Rafael, M.C.; Félix, Z.O.; Gabriel, G.V. Impact of sports mass media on the behavior and health of society. A systematic review. Int. J. Environ. Res. Public Health 2019, 16, 486. 
+
+Minhas, R.A.; Javed, A.; Irtaza, A.; Mahmood, M.T.; Joo, Y.B. Shot classification of field sports videos using
+AlexNet Convolutional Neural Network. Appl. Sci. 2019, 9, 483. [CrossRef]
+[4] Fister, I.; Fister, I., Jr.; Fister, D. Computational Intelligence in Sports; Springer: Berlin/Heidelberg,
+Germany, 2019.
