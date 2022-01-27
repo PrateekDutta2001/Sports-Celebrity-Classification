@@ -13,3 +13,9 @@ The use of image classification methods and techniques in sports is not new. Pre
 
 Data is in image type of .jpg format. Five classes were there containg image of five different sports celebrity. 'Kane Williamson', 'Kobe Bryant', 'MS Dhoni', 'Maria Sharapova', 'Ronaldo'. In conclusion, the main contribution and purpose of the proposed method is to provide a robust and automatic approach, which then significantly improves the classification performance.
 
+# Reference
+
+Hatem, Y.; Rady, S. Exploring feature dimensionality reduction methods for enhancing automatic sport
+image annotation. Multimed. Tools Appl. 2018, 77, 9171–9188. [CrossRef]
+[2] Pilar, P.M.; Rafael, M.C.; Félix, Z.O.; Gabriel, G.V. Impact of sports mass media on the behavior and health of
+society. A systematic review. Int. J. Environ. Res. Public Health 2019, 16, 486. [CrossRef] [PubMed]
