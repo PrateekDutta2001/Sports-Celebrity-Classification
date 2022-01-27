@@ -22,3 +22,8 @@ Data is in image type of .jpg format. Five classes were there containg image of 
 [3]Minhas, R.A.; Javed, A.; Irtaza, A.; Mahmood, M.T.; Joo, Y.B. Shot classification of field sports videos using AlexNet Convolutional Neural Network. Appl. Sci. 2019, 9, 483.
 
 [4] Fister, I.; Fister, I., Jr.; Fister, D. Computational Intelligence in Sports; Springer: Berlin/Heidelberg, Germany, 2019.
+
+[5] Wang, S.Y.; Liao, W.S.; Hsieh, L.C.; Chen, Y.Y.; Hsu, W.H. Learning by expansion: Exploiting social media for
+image classification with few training examples. Neurocomputing 2012, 95, 117–125. [CrossRef]
+[6] Lu, C.; Zhai, F. Weakly-supervised large-scale image modeling for sport scenes and its applications. J. Vis.
+Commun. Image Represent. 2020, 71, 102718.
