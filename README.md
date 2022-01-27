@@ -19,6 +19,6 @@ Data is in image type of .jpg format. Five classes were there containg image of 
 
 [2] Pilar, P.M.; Rafael, M.C.; Félix, Z.O.; Gabriel, G.V. Impact of sports mass media on the behavior and health of society. A systematic review. Int. J. Environ. Res. Public Health 2019, 16, 486. 
 
-[3 ]Minhas, R.A.; Javed, A.; Irtaza, A.; Mahmood, M.T.; Joo, Y.B. Shot classification of field sports videos using AlexNet Convolutional Neural Network. Appl. Sci. 2019, 9, 483. [CrossRef]
-[4] Fister, I.; Fister, I., Jr.; Fister, D. Computational Intelligence in Sports; Springer: Berlin/Heidelberg,
-Germany, 2019.
+[3]Minhas, R.A.; Javed, A.; Irtaza, A.; Mahmood, M.T.; Joo, Y.B. Shot classification of field sports videos using AlexNet Convolutional Neural Network. Appl. Sci. 2019, 9, 483.
+
+[4] Fister, I.; Fister, I., Jr.; Fister, D. Computational Intelligence in Sports; Springer: Berlin/Heidelberg, Germany, 2019.
