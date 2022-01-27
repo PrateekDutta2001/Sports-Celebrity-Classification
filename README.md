@@ -15,7 +15,6 @@ Data is in image type of .jpg format. Five classes were there containg image of 
 
 # Reference
 
-Hatem, Y.; Rady, S. Exploring feature dimensionality reduction methods for enhancing automatic sport
-image annotation. Multimed. Tools Appl. 2018, 77, 9171–9188. [CrossRef]
-[2] Pilar, P.M.; Rafael, M.C.; Félix, Z.O.; Gabriel, G.V. Impact of sports mass media on the behavior and health of
-society. A systematic review. Int. J. Environ. Res. Public Health 2019, 16, 486. [CrossRef] [PubMed]
+[1] Hatem, Y.; Rady, S. Exploring feature dimensionality reduction methods for enhancing automatic sport image annotation. Multimed. Tools Appl. 2018, 77, 9171–9188.
+
+[2] Pilar, P.M.; Rafael, M.C.; Félix, Z.O.; Gabriel, G.V. Impact of sports mass media on the behavior and health of society. A systematic review. Int. J. Environ. Res. Public Health 2019, 16, 486. 
